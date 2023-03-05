@@ -3,8 +3,14 @@
 class App
 {
 
-    function __construct()
+    public function __construct()
     {
-        echo "app class";
+        
     }
+    // функция-разделить URL
+    private function splitURL()
+        {
+
+        }
+
 }
